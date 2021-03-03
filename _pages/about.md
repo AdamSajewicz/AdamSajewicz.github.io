@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me"
 ---
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Zdjęcie.png" alt="Adam Sajewicz">
@@ -13,4 +13,14 @@ Last period of his career as a QA was too much focused on manual testing, so loo
 
 Now he is strengthening his Java, Selenium and REST Assured skills. Reinforcing his QA craftmanship with Docker and containerisation. Looking above and beyond the Selenium. Trying tools for performance testing.
 
-Privately a father of two "very junior developers / testers", Lego Technic enthusiast, passionate treasure hunter.
+Privately a father of two "very junior developers / testers"
+
+
+
+Lego Technic enthusiast 
+
+
+
+Passionate treasure hunter.
+
+
