@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Adam Sajewicz"
-  avatar : "/assets/images/zdjecie_LinkedIn_2.png"
+  avatar : "/assets/images/zdjęcie_LinkedIn_2.png"
   bio    : "Software Engineer in Tests."
   links:
     - label: "GitHub"
