@@ -3,6 +3,9 @@ permalink: /about/
 title: "About"
 ---
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Zdjęcie.png" alt="Adam Sajewicz">
+
+
 Free Ronin with 5 years of professional experience in software testing. Manual and automated, from huge enterprise-scale systems to microservices. 
 
 Spent half of his professional carer in testing middleware / integration systems.
