@@ -3,30 +3,15 @@ permalink: /portfolio/
 title: "Realized Projects"
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Zdjęcie.png" alt="Adam Sajewicz">
+Within this page you can see my projects I accomplished recently
 
 
-Free Ronin with **5 years of professional experience in software testing**. Manual and automated, from huge enterprise-scale systems to microservices. 
+#CodingBat#
+>  CodingBat is a free site of live coding problems to build coding skill in Java and Python (example problem). CodingBat is a project by Nick Parlante, a computer science lecturer at Stanford.
 
-Spent half of his professional carer in testing middleware / integration systems.
-Last period of his career as a QA was too much focused on manual testing, so looking for a change.
+> Going through many practice problem is a great way to solidify your understanding of how the code should work. CodingBat problems work great as homework, or for self-study practice, or in a lab, or as live lecture examples. The CodingBat problems are designed to have low overhead: short problem statements (like an exam), nothing to install, immediate feedback in the browser, and there's lots of them to build up those skills. The idea for CodingBat came from my experience teaching CS at Stanford combined with seeing how student's used unit-tests in more advanced courses, and crystalized when I saw an Owen Astrachan demo of a unit-testing thing he uses with his Duke students.
+> More info you can find [there][]. 
 
-**Now he is**
-* strengthening his Java, Selenium and REST Assured skills, 
-* reinforcing his QA craftmanship with Docker and containerisation, 
-* looking above and beyond the Selenium,
-* trying tools for performance testing.
+[there]: https://codingbat.com/about.html
 
-**Privately** 
 
-* a father of two "very junior developers / testers"
-
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/oni.png" alt="">
-
-* Lego Technic enthusiast 
-
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Mark_4.png" alt="">
-
-* Passionate treasure hunter.
-
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/lego _metal_detectorist.jpeg" alt="">
