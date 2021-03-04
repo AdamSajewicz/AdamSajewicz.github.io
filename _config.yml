@@ -86,7 +86,7 @@ defaults:
       path: ""
       type: portfolio
     values:
-      layout: single
+      layout: splash
       author_profile: true
       #read_time: true
       #comments: true
