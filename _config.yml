@@ -33,6 +33,7 @@ timezone: Europe/Warsaw # https://en.wikipedia.org/wiki/List_of_tz_database_time
 
 include:
   - _pages
+  - _posts
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -82,7 +83,7 @@ footer:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_pages"
       type: portfolio
     values:
       layout: single
@@ -99,9 +100,9 @@ defaults:
       layout: single
       author_profile: true
 
-category_archive:
+posts:
   type: posts
-  path: /posts/
+  path: ""
 #tag_archive:
 #  type: liquid
 #  path: /tags/
