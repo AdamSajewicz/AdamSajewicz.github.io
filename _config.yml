@@ -83,7 +83,7 @@ footer:
 defaults:
   # _posts
   - scope:
-      path: /portfolio/
+      path: ""
       type: portfolio
     values:
       layout: single
