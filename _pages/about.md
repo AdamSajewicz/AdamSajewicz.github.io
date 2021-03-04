@@ -23,4 +23,4 @@ Lego Technic enthusiast
 
 Passionate treasure hunter.
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/lego _metal_detectorist.png" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/lego _metal_detectorist.jpeg" alt="">
