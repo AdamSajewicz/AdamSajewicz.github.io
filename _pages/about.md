@@ -11,7 +11,7 @@ Free Ronin with **5 years of professional experience in software testing**. Manu
 Spent half of his professional carer in testing middleware / integration systems.
 Last period of his career as a QA was too much focused on manual testing, so looking for a change.
 
-**Now he is **
+**Now he is**
 * strengthening his Java, Selenium and REST Assured skills, 
 * reinforcing his QA craftmanship with Docker and containerisation, 
 * looking above and beyond the Selenium,
@@ -19,14 +19,14 @@ Last period of his career as a QA was too much focused on manual testing, so loo
 
 **Privately** 
 
-*a father of two "very junior developers / testers"
+* a father of two "very junior developers / testers"
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/oni.png" alt="">
 
-*Lego Technic enthusiast 
+* Lego Technic enthusiast 
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Mark_4.png" alt="">
 
-*Passionate treasure hunter.
+* Passionate treasure hunter.
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/lego _metal_detectorist.jpeg" alt="">
