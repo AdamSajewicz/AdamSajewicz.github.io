@@ -3,7 +3,7 @@ permalink: /about/
 title: "About Me"
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Zdjęcie2.png" alt="Adam Sajewicz">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Zdjęcie.png" alt="Adam Sajewicz">
 
 
 Free Ronin with **5 years of professional experience in software testing**. Manual and automated, from huge enterprise-scale systems to microservices. 
