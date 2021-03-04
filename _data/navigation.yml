@@ -1,6 +1,6 @@
 main:
   - title: "Portfolio"
-    url: /
+    url: /portfolio/
   - title: "Posts"
     url: /posts/
 #  - title: "Tags"
