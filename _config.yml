@@ -83,7 +83,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: portfolio
     values:
       layout: single
       author_profile: true
@@ -99,9 +99,9 @@ defaults:
       layout: single
       author_profile: true
 
-#category_archive:
-#  type: liquid
-#  path: /categories/
+category_archive:
+  type: posts
+  path: /posts/
 #tag_archive:
 #  type: liquid
 #  path: /tags/
