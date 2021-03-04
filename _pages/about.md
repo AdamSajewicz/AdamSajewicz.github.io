@@ -9,7 +9,7 @@ title: "About Me"
 Free Ronin with **5 years of professional experience in software testing**. Manual and automated, from huge enterprise-scale systems to microservices. 
 
 Spent half of his professional carer in testing middleware / integration systems.
-Last period of his career as a QA was too much focused on manual testing, so looking for a change.
+
 
 **Now he is**
 * strengthening his Java, Selenium and REST Assured skills, 
