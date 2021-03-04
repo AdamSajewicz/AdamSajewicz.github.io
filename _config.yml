@@ -83,15 +83,15 @@ footer:
 defaults:
   # _posts
   - scope:
-      path: "_pages"
+      path: /portfolio/
       type: portfolio
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      #read_time: true
+      #comments: true
+      #share: true
+      #related: true
   # _pages
   - scope:
       path: "_pages"
@@ -102,7 +102,14 @@ defaults:
 
 posts:
   type: posts
-  path: ""
+  path: /posts/
+  values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 #tag_archive:
 #  type: liquid
 #  path: /tags/
