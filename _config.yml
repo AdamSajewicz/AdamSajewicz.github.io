@@ -83,7 +83,7 @@ footer:
 defaults:
   # portfolio
   - scope:
-      path: ""
+      path: /
       type: portfolio
     values:
       layout: splash
