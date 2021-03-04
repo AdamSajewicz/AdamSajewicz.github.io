@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Adam Sajewicz Portfolio
+title: Adam Sajewicz
 email: adam.saj@wp.pl
 description: >- # this means to ignore newlines until "baseurl:"
- Adam Sajewicz portfolio page
+ Adam Sajewicz - Software Test Engineer
 # twitter_username: username
 github_username: AdamSajewicz
 minimal_mistakes_skin: sunrise
@@ -58,26 +58,26 @@ plugins:
 author:
   name   : "Adam Sajewicz"
   avatar : "/assets/images/Zdjęcie2.png"
-  bio    : "Software Engineer in Tests."
+  bio    : "Software Engineer in Tests"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://AdamSajewicz.github.io"
+      url: "https://github.com/AdamSajewicz/"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      icon: "fab fa-fw fa-linkedin"
+      url: "ttps://www.linkedin.com/in/adam-sajewicz-7aaaa733"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+ #   - label: "Twitter"
+ #     icon: "fab fa-fw fa-twitter-square"
+ #     url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/AdamSajewicz/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "ttps://www.linkedin.com/in/adam-sajewicz-7aaaa733"
 
 defaults:
   # _posts
