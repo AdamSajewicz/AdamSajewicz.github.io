@@ -15,12 +15,12 @@ Now he is strengthening his Java, Selenium and REST Assured skills. Reinforcing 
 
 Privately a father of two "very junior developers / testers"
 
-
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/oni.png" alt="">
 
 Lego Technic enthusiast 
 
-
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Mark_4.png" alt="">
 
 Passionate treasure hunter.
 
-
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/lego _metal_detectorist.png" alt="">
