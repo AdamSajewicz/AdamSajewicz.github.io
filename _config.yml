@@ -81,7 +81,7 @@ footer:
       url: "ttps://www.linkedin.com/in/adam-sajewicz-7aaaa733"
 
 defaults:
-  # _posts
+  # portfolio
   - scope:
       path: ""
       type: portfolio
