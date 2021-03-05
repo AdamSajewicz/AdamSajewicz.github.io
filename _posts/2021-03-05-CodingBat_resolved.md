@@ -13,9 +13,9 @@ Throughout the last year (2020) I resolved all excercises in the CodingBat chall
 <!--more-->
 
 The challenge consisted of 317 algorithms of different scale of difficulty, so it took me a while to complete it all. According to the CodingBat's reports, the hardest for me were: 
-* AP Common two
-* Array-3 fix45
-* Array-3 CanBalance
+* AP-1 "Common Two"
+* Array-3 "fix45"
+* Array-3 "Can Balance"
 
 A sample output from the CodingBat test data you can see below:
 
