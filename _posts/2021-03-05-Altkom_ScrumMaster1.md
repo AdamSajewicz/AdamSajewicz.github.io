@@ -1,5 +1,5 @@
 ---
-title: "AltkoAkademia Course - Professional Scrum Master I"
+title: "AltkomAkademia Course - Professional Scrum Master I"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
