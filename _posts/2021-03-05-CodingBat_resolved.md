@@ -1,0 +1,23 @@
+---
+title: "CodingBat Resolved"
+excerpt_separator: "<!--more-->"
+categories:
+  - Blog
+tags:
+  - CodingBat
+  - Java
+---
+
+Throughout the last year (2020) I resolved all excercises in the CodingBat challenge. You may read about this also in [my Portfolio page](https://adamsajewicz.github.io/portfolio/#codingbat).
+
+<!--more-->
+
+The challenge consisted of 317 algorithms of different scale of difficulty, so it took me a while to complete it all. According to the CodingBat's reports, the hardest for me were: 
+* AP Common two
+* Array-3 fix45
+* Array-3 CanBalance
+
+A sample output from the CodingBat test data you can see below:
+
+
+
