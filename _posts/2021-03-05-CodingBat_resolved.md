@@ -19,5 +19,8 @@ The challenge consisted of 317 algorithms of different scale of difficulty, so i
 
 A sample output from the CodingBat test data you can see below:
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/fix45.png" alt="CodingBat fix45 output">
 
+<!--more-->
 
+Source code of all resolutions you may find on [my GitHub](https://github.com/AdamSajewicz/java-coding-bat)
