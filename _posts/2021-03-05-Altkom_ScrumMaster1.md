@@ -15,5 +15,5 @@ From 8th of March I'm starting a new certification course "Professional ScrumMas
 
 <!--more-->
 
-I played a ScrumMaster role in a development team of 4 devs and a QA (myself), so why not to get a certificate?
+I played a ScrumMaster role in a development team of 4 devs and a QA (myself), so why not to get a certificate? <img src="{{ site.url }}{{ site.baseurl }}/assets/images/psm1.png" alt="PSM-1 icon">
 
