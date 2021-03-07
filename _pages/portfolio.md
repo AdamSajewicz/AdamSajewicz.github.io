@@ -1,6 +1,6 @@
 ---
 permalink: /portfolio/
-title: "Realized Projects"
+title: "My work samples"
 ---
 
 Within this page you can see my projects I accomplished recently
