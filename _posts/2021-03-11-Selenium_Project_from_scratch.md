@@ -21,6 +21,7 @@ As a "system under tests" I used the **ParaBank** project. It's a kind of test-b
 Within this project I used:
 * **Page Object Model** design pattern
 * **Page Factory** design pattern
+* **Fluent Interface** design pattern
 * **TestNG** as a test management framework
 * Reading test configuration from an XML file
 * Separate **Page** classes and **Assertions** classes
