@@ -4,10 +4,9 @@ excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
-  - Selenium
+  - RESTAssured
   - Java
   - TestNG
-  - Page Object Model
 ---
 
 
