@@ -1,5 +1,5 @@
 ---
-title: "Java Selenium project from the ground up"
+title: "REST-Assured from the ground up"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
