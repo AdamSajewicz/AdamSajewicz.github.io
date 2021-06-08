@@ -69,6 +69,10 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/adam-sajewicz-7aaaa733"
 
+logo: "/assets/images/useravatar.png"
+masthead_title: ""
+
+
 footer:
   links:
  #   - label: "Twitter"
