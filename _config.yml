@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-# title:  
+title: Adam Sajewicz  
 email: adam.saj@wp.pl
 # description: >- # this means to ignore newlines until "baseurl:"
 #  Adam Sajewicz - Software Test Engineer
 # twitter_username: username
-# github_username: AdamSajewicz
+github_username: AdamSajewicz
 minimal_mistakes_skin: sunrise
 search: true
 
