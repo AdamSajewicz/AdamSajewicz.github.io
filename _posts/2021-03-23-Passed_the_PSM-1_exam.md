@@ -10,7 +10,7 @@ tags:
 
 **I DID IT** !! :-)
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/psm-1.png" alt="PSM-1 certificate awarded to me">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/psm-1_cert.png" alt="PSM-1 certificate awarded to me">
 
 <!--more-->
 
