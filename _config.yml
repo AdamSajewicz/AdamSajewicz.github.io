@@ -61,15 +61,15 @@ plugins:
 author:
   name   : "Adam Sajewicz"
   avatar : "/assets/images/Zdjęcie2.png"
-  bio    : ">**Testing**: the final frontier. > These are the voyages of Adam Sajewicz, the former tester of the starship **TLK Enterprise**. > Its fifteen-months mission: > - to explore strange new technologies. > - To seek out new test-frameworks and new test-approaches. > - To boldly go where no tester has gone before!"
+  bio    : ">**Testing**: the final frontier. These are the voyages of Adam Sajewicz, the former QA of the starship **TLK Enterprise**. Its fifteen-months mission: * to explore strange new technologies. * To seek out new test-frameworks and new test-approaches. * To boldly go where no tester has gone before!"
   email  : "adam.saj@wp.pl"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/AdamSajewicz/"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/adam-sajewicz-7aaaa733"
+  #links:
+    #- label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
+    #  url: "https://github.com/AdamSajewicz/"
+    #- label: "LinkedIn"
+    #  icon: "fab fa-fw fa-linkedin"
+    #  url: "https://www.linkedin.com/in/adam-sajewicz-7aaaa733"
 
 logo: "/assets/images/useravatar.png"
 masthead_title: ""
