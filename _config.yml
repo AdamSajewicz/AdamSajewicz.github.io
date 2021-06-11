@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Adam Sajewicz"
   avatar : "/assets/images/Zdjęcie2.png"
-  bio    : "Testing: the final frontier. These are the voyages of Adam Sajewicz, the former tester of the starship TLK Enterprise. Its fifteen-months mission: to explore strange new technologies. To seek out new test-frameworks and new test-approaches. To boldly go where no tester has gone before!"
+  bio    : "**Testing**: the final frontier. These are the voyages of Adam Sajewicz, the former tester of the starship **TLK Enterprise**. Its fifteen-months mission: * to explore strange new technologies. * To seek out new test-frameworks and new test-approaches. * To boldly go where no tester has gone before!"
   email  : "adam.saj@wp.pl"
   links:
     - label: "GitHub"
