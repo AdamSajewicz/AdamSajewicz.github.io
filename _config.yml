@@ -19,7 +19,7 @@ email: adam.saj@wp.pl
 #  Adam Sajewicz - Software Test Engineer
 # twitter_username: username
 github_username: AdamSajewicz
-minimal_mistakes_skin: sunrise
+minimal_mistakes_skin: air
 search: true
 
 # Build settings
@@ -64,6 +64,7 @@ author:
   bio    : ">**Testing**: the final frontier. These are the voyages of Adam Sajewicz, the former QA of the starship **TLK Enterprise**. Its fifteen-months mission: * to explore strange new technologies. * To seek out new test-frameworks and new test-approaches. * To boldly go where no tester has gone before!"
   email  : "adam.saj@wp.pl"
   linkedin         : "adam-sajewicz-7aaaa733"
+  github           : "AdamSajewicz"
   #links:
     #- label: "GitHub"
     #  icon: "fab fa-fw fa-github"
