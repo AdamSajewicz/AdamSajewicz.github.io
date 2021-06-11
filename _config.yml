@@ -109,4 +109,4 @@ defaults:
       layout: single
       author_profile: true
 
-theme: jekyll-theme-slate
+# theme: jekyll-theme-slate
