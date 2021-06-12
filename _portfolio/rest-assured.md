@@ -1,7 +1,7 @@
 ---
 title: "My work samples"
 header:
-  teaser: assets/images/unsplash-gallery-image-1-th.jpg
+  teaser: assets/images/REST-assured.png
 ---
 
 I prepared also a simple version of the API-testing framework, using REST-Assured framework, and a few related libraries. Within the framework I use for instance: 
