@@ -1,5 +1,5 @@
 ---
-title: "My work samples"
+title: "Sample REST-Assured Project"
 header:
   teaser: assets/images/REST-assured.png
 ---
