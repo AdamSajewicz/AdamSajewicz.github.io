@@ -1,5 +1,4 @@
 ---
-permalink: /portfolio/
 title: "CodingBat Solutions"
 ---
 
