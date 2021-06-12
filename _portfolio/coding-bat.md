@@ -1,10 +1,11 @@
 ---
 title: "CodingBat Solutions"
+header:
+  image: /assets/images/CodingBat.png
+  teaser: assets/images/CodingBat.png
 ---
 
-Within this page you can see my projects I am working on currently. Some of them are accomplished, others are still in progress. 
 
-# CodingBat #
 >  CodingBat is a free site of live coding problems to build coding skill in Java and Python (example problem). CodingBat is a project by Nick Parlante, a computer science lecturer at Stanford.
 > More info you can find [there](https://codingbat.com/about.html). 
 
