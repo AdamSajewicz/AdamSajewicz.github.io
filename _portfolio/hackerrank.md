@@ -1,5 +1,4 @@
 ---
-permalink: /portfolio/
 title: "HackerRank challenges"
 ---
 
