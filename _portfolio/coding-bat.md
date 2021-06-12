@@ -1,7 +1,6 @@
 ---
 title: "CodingBat Solutions"
 header:
-  image: /assets/images/CodingBat.png
   teaser: assets/images/CodingBat.png
 ---
 
