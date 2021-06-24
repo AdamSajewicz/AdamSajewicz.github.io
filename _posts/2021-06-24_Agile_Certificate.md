@@ -1,5 +1,5 @@
 ---
-title: "ISTQB FL - Agile Tester Extension Certificate"
+title: "ISTQB FL - Agile Tester Certificate"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
