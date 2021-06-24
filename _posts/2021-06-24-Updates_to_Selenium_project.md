@@ -1,5 +1,5 @@
 ---
-title: "Java Selenium project from the ground up"
+title: "Updates to the Java Selenium project"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
