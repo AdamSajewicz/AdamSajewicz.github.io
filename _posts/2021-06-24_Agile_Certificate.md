@@ -16,6 +16,6 @@ One of my former colleagues, after passed a certification of some kind, said:
 
 
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/sjsi_istqb_agile.png" alt="ISTQB Agile Extension certification">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/sjsi_istqb_agile.png" alt="ISTQB Agile Extension Certification">
 
 <!--more-->
