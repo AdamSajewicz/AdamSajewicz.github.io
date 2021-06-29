@@ -3,7 +3,9 @@ permalink: /about/
 title: "About Me"
 excerpt_separator: "<!--more-->"
 ---
-
+<!--more-->
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/IMG_5526.JPG" alt="">
+<!--more-->
 Hi, I am a **QA Engineer** who is now looking for a new career opportunity. My experience includes testing of different-scale web-applications, in both manual and automated way. 
 <!--more-->
 I have taken an active part in a variety of projects. In terms of the **QA area**, the first project I was committed to was an integration app which enables clients of a huge HR-system to send job-adverts to different jobboards. Apart of the testing activities there I was also responsible for preparation of the XSLT's for these integrations. Thanks to my efforts, the project despite being put into maintenance mode - noticed a **growing customer base**.
