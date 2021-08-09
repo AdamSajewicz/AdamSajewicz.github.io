@@ -14,5 +14,6 @@ Avra develops the biggest benefit-management system in Poland: Multi-Cafeteria, 
 
 I joined Avra as a QA, and my role there will be to maintain the highest quality of their product, and also to develop the suite of automated selenium tests.
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/avra.png" alt="Avra Software">
 
 <!--more-->
