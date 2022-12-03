@@ -23,7 +23,7 @@ Now **I'm open to take a new job** This could be as well a QA position within yo
 
 **Now I am**
 * strengthening my Java, Selenium and REST-Assured skills, 
-* reinforcing his QA craftmanship with new technologies, 
+* reinforcing my QA craftmanship with new technologies, 
 * looking above and beyond the Selenium framework,
 * going back to the sources and rediscover the power of the testing theory,
 * actively getting test certificates.
