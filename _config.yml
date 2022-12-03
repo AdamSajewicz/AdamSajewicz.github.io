@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Adam Sajewicz"
   avatar : "/assets/images/CV_Kolko_Duze.png"
-  bio    : ">**Testing**: the final frontier. These are the voyages of Adam Sajewicz, the former QA of the starship **TLK Enterprise**. Its fifteen-months mission: * to explore strange new technologies. * To seek out new test-frameworks and new test-approaches. * To boldly go where no tester has gone before! **Now the voyage has ended** I'm currently a QA Engineer in Avra Software :-)"
+  bio    : ">**Testing**: the final frontier. This is the voyage of Adam Sajewicz, the former QA of the starship **TLK Enterprise**, prior ronin-tester, current test automation passionete. His endless mission: * to explore new technologies. * To seek out new test-frameworks and new test-approaches. * To boldly go where no tester has gone before!
   email  : "adam.saj@wp.pl"
   linkedin         : "adam-sajewicz-7aaaa733"
   github           : "AdamSajewicz"
