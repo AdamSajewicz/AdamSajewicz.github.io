@@ -6,9 +6,9 @@ excerpt_separator: "<!--more-->"
 <!--more-->
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/IMG_5526.JPG" alt="">
 <!--more-->
-Hi, I am a full-fledged **QA Engineer**, and now I am looking for a new career opportunity. My vast experience includes testing of enterprise and mid-scale webapplications, monolith and micro- services, in both manual and automated way. 
+I am a full-fledged **QA Engineer**, and now I am looking for a new career opportunity. My vast experience includes testing of enterprise and mid-scale webapplications, monolith and micro- services, in both manual and automated way. 
 <!--more-->
-I have taken an active part in a variety of projects. The first one was an integration app which enables clients of a huge HR-system to send job-adverts to different jobboards. Apart of the QA activities there I was also responsible for preparation of the XSLT's for these integrations. Thanks to my efforts, the project noticed a **growing customer base** despite the fact of being put into maintenance mode.
+I have taken an active part in a variety of projects. The first one was an integration app where I maintained the XSL transformations for these integrations. Thanks to my efforts, the project noticed a **growing customer base** despite the fact of being put into maintenance mode.
 <!--more-->
 Then I was in a team building the Automated tests suite for an enterprise system. Throughout that time I mastered the creation of automated tests using **Java** and **Selenium Framework**. There I played a key role in enhancing the framework by usage of the **REST-Assured** approach to the test case's setup.
 <!--more-->
