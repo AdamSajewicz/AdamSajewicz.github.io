@@ -12,7 +12,7 @@ I have taken an active part in a variety of projects. The first one was an integ
 <!--more-->
 Then I was in a team building the Automated tests suite for an enterprise system. Throughout that time I mastered the creation of automated tests using **Java** and **Selenium Framework**. There I played a key role in enhancing the framework by usage of the **REST-Assured** approach to the test case's setup.
 <!--more-->
-The next period in my career war the middleware integration platform. This was the a great time. I tested **microservices** and led the integration with LinkedIn Recruiter API. What is more, I have gained significant experience in **CI/CD** of these microservices including deployment onto **AWS cloud**. I also played the **Scrum Master** role in the development team.
+The next period in my career war the middleware integration platform. This was a great time. I tested **microservices** and led the integration with LinkedIn Recruiter API. What is more, I have gained significant experience in **CI/CD** of these microservices including deployment onto **AWS cloud**. I also played the **Scrum Master** role in the development team.
 <!--more-->
 In my current position I am the QA Engineer who is driving all the Selenium tests in a mid-scale project, at the same time leading a key role as a manual tester before new releases.
 <!--more-->
