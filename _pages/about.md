@@ -6,7 +6,7 @@ excerpt_separator: "<!--more-->"
 <!--more-->
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/IMG_5526.JPG" alt="">
 <!--more-->
-I am a full-fledged **QA Engineer**, and now I am looking for a new career opportunity. My vast experience includes testing of enterprise and mid-scale webapplications, monolith and micro- services, in both manual and automated way. 
+I am a seasoned **QA Engineer**, and now I am looking for a new career opportunity. My vast experience includes testing of enterprise and mid-scale webapplications, monolith and micro- services, in both manual and automated way. 
 <!--more-->
 I have taken an active part in a variety of projects. The first one was an integration app where I maintained the XSL transformations for these integrations. Thanks to my efforts, the project noticed a **growing customer base** despite the fact of being put into maintenance mode.
 <!--more-->
