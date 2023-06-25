@@ -22,10 +22,11 @@ Interesting fact I've learned during the upgrade is that Lombok library is now b
 <!--more-->
 As usual with such upgrades, not all things went as smoothly as planned. The most weird problem I've encountered was the Annotation Processor, and the compilation message:
 
-    <code>[WARNING] Supported source version 'RELEASE_6' from annotation processor 
+    [WARNING] Supported source version 'RELEASE_6' from annotation processor 
         ...
         less than -source '17'
-    </code>
+    
+
 Even after following the solution instructions from this article at [Bealdung](https://www.baeldung.com/lombok-ide#intellij-apt) haven't made things better. The generated getters still were unrecognized by the IDE. In my case, the following actions helped:
 
 1. Invalidate caches in the IDE,
