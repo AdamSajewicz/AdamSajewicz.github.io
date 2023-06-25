@@ -10,4 +10,4 @@ header:
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/CodingBat.png" alt="CodingBat page">
 
-I have **resolved all the excercises** with **Java language**. The result of my work can be found on [GitHub](https://github.com/AdamSajewicz/java-coding-bat "Adam Sajewicz's resolution for CodingBat Java problems").
+I have **resolved all the exercises** with **Java language**. The result of my work can be found on [GitHub](https://github.com/AdamSajewicz/java-coding-bat "Adam Sajewicz's resolution for CodingBat Java problems").

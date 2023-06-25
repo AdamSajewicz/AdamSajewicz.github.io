@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Adam Sajewicz"
   avatar : "/assets/images/CV_Kolko_Duze.png"
-  bio    : ">**Testing**: the final frontier. This is the voyage of Adam Sajewicz, the former QA of the starship **TLK Enterprise**, prior ronin-tester, current test automation passionete. His endless mission: * to explore new technologies. * To seek out new test-frameworks and new test-approaches. * To boldly go where no tester has gone before!"
+  bio    : "Seasoned **QA Engineer** with hans-on experience in automated and manual testing. His experience spans many industries and business areas, as well as different architectures: from huge enterprise systems to microservices. With passion for tackling test automation tasks using Java and Selenium Webdriver, Adam is excited by the possibilities which comes with other technologies (Cypress.io, Playwright). Privately love to tinker and giving a new life to old things."
   email  : "adam.saj@wp.pl"
   linkedin         : "adam-sajewicz-7aaaa733"
   github           : "AdamSajewicz"

@@ -9,7 +9,7 @@ tags:
   - Agile
 ---
 
-The last few months were very busy for me. Apart of taking part in many recruitments, I also made a significant updates to my sample automated tests projects. Especially the Selenium project has been refactored a lot.
+The last few months were very busy for me. Apart from taking part in many recruitments, I also made a significant updates to my sample automated tests projects. Especially the Selenium project has been refactored a lot.
 
 <!--more-->
 

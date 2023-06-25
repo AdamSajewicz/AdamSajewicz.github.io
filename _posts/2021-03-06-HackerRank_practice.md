@@ -8,11 +8,11 @@ tags:
   - Java
 ---
 
-After resolving all the CodingBat excercises, I started the HackerRank practice. Firstly I focused on the "Problem Solving" category. You may read about this also in [my Portfolio page](https://adamsajewicz.github.io/portfolio/#hackerrank).
+After resolving all the CodingBat exercises, I started the HackerRank practice. Firstly I focused on the "Problem-Solving" category. You may read about this also in [my Portfolio page](https://adamsajewicz.github.io/portfolio/#hackerrank).
 
 <!--more-->
 
-HackerRank contains a countless number of excercises, with different level of difficulty, categorised by 'area', for instance:
+HackerRank contains a countless number of exercises, with different level of difficulty, categorised by 'area', for instance:
 * String
 * Search
 * Sorting

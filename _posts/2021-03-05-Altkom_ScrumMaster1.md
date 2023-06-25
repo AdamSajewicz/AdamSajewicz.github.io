@@ -9,7 +9,7 @@ tags:
   - ScrumMaster
 ---
 
-From 8th of March I'm starting a new certification course "Professional ScrumMaster I". It is a 2-day long course after which I will try to pass the certificate.
+From 8th of March I'm starting a new certification course "Professional ScrumMaster I". It is a 2-day-long course after which I will try to pass the certificate.
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/scrumMaster1.png" alt="Invite for the Professional ScrumMaster course">
 

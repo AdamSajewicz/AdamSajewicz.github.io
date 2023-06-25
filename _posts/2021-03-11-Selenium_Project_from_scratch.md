@@ -10,7 +10,7 @@ tags:
   - Page Object Model
 ---
 
-Finally I finished the base of the Selenium project. It's a sample project presenting my way of creating a suite of automated tests. 
+Finally, I finished the base of the Selenium project. It's a sample project presenting my way of creating a suite of automated tests. 
 
 <!--more-->
 
@@ -25,7 +25,7 @@ Within this project I used:
 * **TestNG** as a test management framework
 * Reading test configuration from an XML file
 * Separate **Page** classes and **Assertions** classes
-* Easy switching from Page to it's asertions
+* Easy switching from Page to it's assertions
 
 <!--more-->
 
@@ -33,7 +33,7 @@ Here is a screenshot taken from the first run of the "ParaBankLoginTest"
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/paraBankHomePage-testRun.png" alt="ParaBankLoginTest run screenshot">
 
-And that is how it looks like from the JntelliJ's console perspective:
+And that is how it looks like from the IntelliJ's console perspective:
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/paraBankHomePage-console.png" alt="ParaBankLoginTest run console">
 

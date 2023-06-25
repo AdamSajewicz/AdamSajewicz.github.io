@@ -8,7 +8,7 @@ tags:
   - Java
 ---
 
-Throughout the last year (2020) I resolved all excercises in the CodingBat challenge. You may read about this also in [my Portfolio page](https://adamsajewicz.github.io/portfolio/#codingbat).
+Throughout the last year (2020) I resolved all exercises in the CodingBat challenge. You may read about this also in [my Portfolio page](https://adamsajewicz.github.io/portfolio/#codingbat).
 
 <!--more-->
 
