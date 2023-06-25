@@ -15,9 +15,11 @@ or maybe only to a certain Java's release I decided to go for **maximum** strate
 libraries.
 <!--more-->
 I have chosen **Java 17** (Coretto), which is the current LTS java's version. Other dependencies were upgraded as well:
+
 * Selenium -> to version 4.10.0
 * TestNG -> to version 7.8.0
 * REST-Assured -> to version 5.3.1
+
 Interesting fact I've learned during the upgrade is that Lombok library is now bundled with the IDE itself, so no need to install 
 any special plugin for that (I'm using IntelliJ 2023.1.2)
 <!--more-->
