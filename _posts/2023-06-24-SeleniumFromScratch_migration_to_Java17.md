@@ -1,5 +1,5 @@
 ---
-title: "Java Selenium project from the ground up"
+title: "Selenium From Scratch project upgrade to Java 17"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
