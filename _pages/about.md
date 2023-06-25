@@ -4,7 +4,7 @@ title: "About Me"
 excerpt_separator: "<!--more-->"
 ---
 <!--more-->
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/IMG_5526.JPG" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/IMG_5526_CROP.JPG" alt="">
 <!--more-->
 I am a seasoned **QA Engineer** who is looking for a new career opportunity. My vast experience includes testing of enterprise and mid-scale webapplications, monolith and microservices, in both manual and automated way. 
 <!--more-->
