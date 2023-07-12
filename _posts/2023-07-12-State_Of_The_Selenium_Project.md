@@ -34,7 +34,7 @@ important remark: since each Page class can have its own Assertions class, their
 <!--more-->
 Thanks to that approach, the tests are very readable / understandable, and their extension modification is extremely easy.
 A sample test looks like the following:
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/sfs-example.png" alt="Example Test in the SeleniumFromScratch framework">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/sfs_example.png" alt="Example Test in the SeleniumFromScratch framework">
 <!--more-->
 If you would like to have a similar framework in your project, please don't hesitate to contact me;
 - phone: (+48) 601647586
