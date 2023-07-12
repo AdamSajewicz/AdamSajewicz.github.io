@@ -11,7 +11,7 @@ tags:
 
 From now on you can comment my articles, as well as add reactions to it.
 <!--more-->
-The commenting engine is powered by the Giscus, a free, open-source comment system powered by GitHub Discussions.
+The commenting engine is powered by the Giscus, a free, open-source comment system integrated with GitHub Discussions.
 Visitors can leave comments and reactions on your website via GitHub. Giscus is heavily inspired by utterances,
 and is open source, with no tracking, ads, or cost. No database is needed, and all data is stored in GitHub Discussions.
 More information you can find on the [Giscuss webpage](https://giscus.app/)
