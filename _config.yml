@@ -58,6 +58,18 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+comments:
+  provider: "giscus"
+  giscus:
+    repo:                "AdamSajewicz/AdamSajewicz.github.io"
+    repo-id:             "MDEwOlJlcG9zaXRvcnkzNDM4MjA3MTQ="
+    category:            "Announcements"
+    category-id:         "DIC_kwDOFH5Jqs4CX0Jv"
+    mapping:             "pathname"
+    reactions-enabled:    "1"
+    theme:               "light"
+    crossorigin:         "anonymous"
+
 author:
   name   : "Adam Sajewicz"
   avatar : "/assets/images/CV_Kolko_Duze.png"
