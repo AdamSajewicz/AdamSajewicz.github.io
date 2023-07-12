@@ -28,6 +28,8 @@ I enabled the possibility to extract and separate three types of objects:
 - tests classes (with the postfix 'Test' in their name),
 - page classes (postfix: 'Page'),
 - assertions (postfix: 'PageAssertions').
+
+<!--more-->
 In such test framework, test classes might have a package structure following the business logic, and the client's needs. 
 On the other hand, pages and assertions can follow the structure of the pages which exist in the application. Here is just one
 important remark: since each Page class can have its own Assertions class, their structure must be the same 1:1.
@@ -39,5 +41,6 @@ A sample test looks like the following:
 If you would like to have a similar framework in your project, please don't hesitate to contact me;
 - phone: (+48) 601647586
 - email: adam.saj@wp.pl
+
 <!--more-->
 You can also review all other pages from this site, where I present myself a little bit deeper, and also present some of the other projects I lead.
