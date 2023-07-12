@@ -58,6 +58,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+repository: "AdamSajewicz/AdamSajewicz.github.io"
 comments:
   provider: "giscus"
   giscus:
