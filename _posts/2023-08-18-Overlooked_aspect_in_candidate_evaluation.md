@@ -32,6 +32,8 @@ Could I use that story as an example of the "STAR" method during an interview fo
 In one of the companies I worked for, there was an initiative called "Business Social Responsibility". The main concerns of this concept were, of course, energy savings, waste sorting, riding a bike to work, and these kinds of ideas. All these are important, feasible, and, in some sense, catchy. We have to take care of the environment. Society, however, is something a bit different for me. Society means people. And I am socially involved just in that way. 
 <!--more-->
 > **If you think it's worth helping me with this, all you have to do is give me a chance to get a new job.**
+ 
+
 <!--more-->
 For those who have been reading the article up to this point, I have a little bonus: a photo of one of the kittens that were born in the attic of my family home this spring. The cats were fed by my parents.
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Kotek.png" alt="One of the kittens born in the attic">
