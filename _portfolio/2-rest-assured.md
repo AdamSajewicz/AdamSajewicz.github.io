@@ -23,4 +23,4 @@ When using my RESTAssuredFromScratch framework, the tester is able to write very
 
 <script src="https://gist.github.com/AdamSajewicz/6adfb9762e69f3690d680a96a30c9c44.js"></script>
 
-If only you like the way I am writing the tests, please feel free to contact me over the phone or via email. I can creatch such framework for your company as well
+If only you like the way I am writing the tests, please feel free to contact me over the phone or via email. I can create such framework for your company as well
