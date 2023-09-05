@@ -1,5 +1,5 @@
 ---
-title: "Sample REST-Assured Project"
+title: "Complete Postman Project"
 header:
   teaser: assets/images/postman.png
 ---
