@@ -4,5 +4,5 @@ title: "Adam Sajewicz CV"
 excerpt_separator: "<!--more-->"
 ---
 <!--more-->
-<object data="{{ site.url }}{{ site.baseurl }}/assets/pdf/Adam_Sajewicz_CV.pdf" width="1000" height="1000" type='application/pdf'/>
+<object data="{{ site.url }}{{ site.baseurl }}/assets/pdf/Adam_Sajewicz_CV_Detailed.pdf" width="1200" height="1200" type='application/pdf'/>
 <!--more-->
