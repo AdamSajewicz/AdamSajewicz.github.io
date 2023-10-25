@@ -1,5 +1,5 @@
 ---
-title: "Long-awaited hoolidays in Kotlina Klodzka - recharge batteries for the next couple of months"
+title: "Long-awaited holidays in Kotlina Klodzka - recharge batteries for the next couple of months"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
