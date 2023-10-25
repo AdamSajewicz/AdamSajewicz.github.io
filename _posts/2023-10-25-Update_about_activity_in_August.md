@@ -1,5 +1,5 @@
 ---
-title: "New detailed CV on a separate subpage ready for your review"
+title: "Long-awaited hoolidays in Kotlina Klodzka - recharge batteries for the next couple of months"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
